@@ -1,4 +1,23 @@
-.recipes{
+.recipes {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-image: url(https://img.freepik.com/premium-photo/empty-frame-middle-different-vegetables-lying-table-generative-ai_546192-2506.jpg);
+    background-size: 100%;
+}
+h1 {
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    color: white;
+    margin: 10px;
+    font-size: 20px;
 }
