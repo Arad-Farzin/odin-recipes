@@ -10,7 +10,6 @@ body {
 }
 h1 {
     text-align: center;
-    margin-top: 300px;
     margin-bottom: 10px;
     color: white;
     font-size: 40px;
@@ -20,4 +19,12 @@ a {
     color: white;
     margin: 10px;
     font-size: 20px;
+}
+.spices {
+    width: 25%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 380px;
+    max-width: 1000px;
 }

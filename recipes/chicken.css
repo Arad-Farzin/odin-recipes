@@ -1,0 +1,32 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 400px;
+}
+h1, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.chicken {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.crispy {
+    width: 80%;
+    background-color: rgb(183, 175, 175);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 1000px;
+}
+body {
+    background-image: url(https://media.istockphoto.com/id/1458510234/photo/dark-gray-wood-grain-grunge-texture-wooden-surface-abstract-textured-background.jpg?s=612x612&w=0&k=20&c=OWMqf0_EFGzZJsAsYsoYkOK0nVHOGIk6SBopPMQ9qSA=);
+    background-size: 100%;
+}
